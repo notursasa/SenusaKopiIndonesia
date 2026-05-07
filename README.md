@@ -60,11 +60,3 @@ Complete management of business entities including:
 
 5. **Access the App**
    - Open your browser and navigate to `http://localhost/senusa_kopi`.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/senusa_kopi/issues).
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
