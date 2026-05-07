@@ -1,0 +1,14 @@
+# Database configuration (uncomment if you want to keep your local db settings private)
+# config/database.php
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Uploads (optional: ignore actual images but keep the folder)
+uploads/*
+!uploads/.gitkeep
